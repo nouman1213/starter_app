@@ -1,4 +1,0 @@
-#Sun Aug 28 12:24:49 PKT 2022
-base.0=D\:\\fproj\\starter_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
